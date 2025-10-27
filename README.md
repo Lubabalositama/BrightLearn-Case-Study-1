@@ -65,4 +65,5 @@ Implement customer loyalty and feedback systems.
 ## Author
 
 Lubabalo Sesonasipho Sitama
+
 Junior Data Analyst | Brightlearn Coffee Shop (Case Study)
