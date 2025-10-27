@@ -62,6 +62,7 @@ Expand tracking across multiple store locations.
 
 Implement customer loyalty and feedback systems.
 
-Author
+# Author
+
 Lubabalo Sesonasipho Sitama
 Junior Data Analyst | Brightlearn Coffee Shop (Case Study)
