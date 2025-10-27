@@ -1,4 +1,4 @@
-## BrightLearn-Case-Study-1
+# BrightLearn-Case-Study-1
 Case Study 1: Coffee Shop 
 Bright Coffee Shop Sales Analysis (BRIGHTLEARN)
 
@@ -62,7 +62,7 @@ Expand tracking across multiple store locations.
 
 Implement customer loyalty and feedback systems.
 
-# Author
+## Author
 
 Lubabalo Sesonasipho Sitama
 Junior Data Analyst | Brightlearn Coffee Shop (Case Study)
