@@ -1,5 +1,6 @@
 # BrightLearn-Case-Study-1
-Case Study 1: Coffee Shop 
+Case Study 1: Coffee Shop Analysis
+
 Bright Coffee Shop Sales Analysis (BRIGHTLEARN)
 
 ## 📖 Overview
