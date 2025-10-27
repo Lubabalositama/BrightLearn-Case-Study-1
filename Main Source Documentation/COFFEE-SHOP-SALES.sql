@@ -22,7 +22,7 @@ FROM BRIGHTLEARN.COFFEESHOP.SALES;
 SELECT MIN(TRANSACTION_DATE) AS Shop_Opening_Date
 FROM BRIGHTLEARN.COFFEESHOP.SALES;
 
--- To Check whe the last time the shop performed a transction 
+-- To Check when the last time the shop performed a transction 
 SELECT MAX(TRANSACTION_DATE) AS Shop_Last_Tranaction_Date
 FROM BRIGHTLEARN.COFFEESHOP.SALES;
 
