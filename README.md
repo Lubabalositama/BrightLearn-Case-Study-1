@@ -27,12 +27,12 @@ Data Processing:	Snowflake - (SQL)	Cleaned, transformed, and explored the datase
 Data Analysis:	Microsoft Excel -	Created dashboards, charts, and summarized insights
 Presentation:	PowerPoint -	Built a business presentation for the CEO
 
-├── CODE FOR COFFEE SHOP ANALYSIS.pdf        # SQL code used in Snowflake
-├── DATA VISUALISATION COFFEE SHOP ANALYSIS.xlsx  # Excel dashboards & charts
-├── COFFEE SHOP PRESENTATION OF ANALYSIS.pptx     # Final presentation for the CEO
-├── Miro PLANNING CASE STUDY.pdf                 # Case study planning
-├── PLANNING SCREENSHOTS.pdf                      # Case study planning screenshots, because the case study planning is not clear
-└── README.md                                   # Project documentation
+CODE FOR COFFEE SHOP ANALYSIS.pdf (SQL code used in Snowflake)
+DATA VISUALISATION COFFEE SHOP ANALYSIS.xlsx (Excel dashboards & charts)
+COFFEE SHOP PRESENTATION OF ANALYSIS.pptx (Final presentation for the CEO)
+Miro PLANNING CASE STUDY.pdf (Case study planning)
+PLANNING SCREENSHOTS.pdf (Case study planning screenshots, because the case study planning is not clear)
+README.md (Project documentation)
 
 - Key Insights
 
