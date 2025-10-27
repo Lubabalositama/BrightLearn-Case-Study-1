@@ -1,6 +1,7 @@
 # BrightLearn-Case-Study-1
 Case Study 1: Coffee Shop 
 Bright Coffee Shop Sales Analysis (BRIGHTLEARN)
+
 📖 Overview
 
 This project focuses on analyzing the Bright Coffee Shop sales data to provide valuable insights to the newly appointed CEO.
