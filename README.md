@@ -1,13 +1,13 @@
-# BrightLearn-Case-Study-1
+## BrightLearn-Case-Study-1
 Case Study 1: Coffee Shop 
 Bright Coffee Shop Sales Analysis (BRIGHTLEARN)
 
-📖 Overview
+##📖 Overview
 
 This project focuses on analyzing the Bright Coffee Shop sales data to provide valuable insights to the newly appointed CEO.
 The goal is to identify ways to grow sales, improve customer retention, and enhance product performance based on historical transactional data.
 
-- Objective
+## Objective
 
 The analysis aims to help the CEO and management understand:
 
@@ -19,7 +19,7 @@ Sales trends across different product types and time intervals
 
 Practical recommendations to improve sales performance
 
-- Approach & Tools Used
+## Approach & Tools Used
 To complete this case study, I used a combination of data analysis, SQL coding, and visual storytelling tools:
 
 Planning:	Miro - Designed the data flow and analysis plan
@@ -34,7 +34,7 @@ Miro PLANNING CASE STUDY.pdf (Case study planning),
 PLANNING SCREENSHOTS.pdf (Case study planning screenshots, because the case study planning is not clear),
 README.md (Project documentation).
 
-- Key Insights
+## Key Insights
 
 Top Products: Coffee, tea, and bakery goods are the best performers.
 
@@ -44,7 +44,7 @@ Customer Retention: Most customers are new — retention is low.
 
 Time of Day: Morning and afternoon hours drive the highest revenue.
 
-- Recommendations
+## Recommendations
 
 Focus on customer retention — introduce loyalty programs and time-based offers.
 
@@ -54,7 +54,7 @@ Create seasonal bundles — e.g., coffee + pastry combos.
 
 Improve off-peak sales through targeted marketing and discounts.
 
-- Next Steps
+## Next Steps
 
 Automate daily sales reporting.
 
@@ -62,7 +62,6 @@ Expand tracking across multiple store locations.
 
 Implement customer loyalty and feedback systems.
 
-- Author
-
+Author
 Lubabalo Sesonasipho Sitama
-Junior Data Analyst | Bright Coffee Shop (Case Study)
+Junior Data Analyst | Brightlearn Coffee Shop (Case Study)
